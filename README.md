@@ -9,7 +9,7 @@ A [babette example](https://github.com/richelbilderbeek/babette_examples).
 
 ## Example #3: JC69 site model
 
-![Example #3: JC69 site model](jc69_2_4.png)
+![Example #3: JC69 site model](pics/jc69_2_4.png)
 
 ```
 posterior <- bbt_run(
